@@ -4,10 +4,8 @@ A simple HTML and CSS project for a beautiful and responsive landing page for a 
 
 ## Screenshots
 
-<div style="display: flex;">
     <img src="Screenshot_2024-05-14_18_46_36.png" alt="Desktop Preview" width="600" style="margin-right: 40px;">
     <img src="mobile.png" alt="Mobile Preview" width="200">
-</div>
 
 ## Description
 
