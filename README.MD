@@ -4,8 +4,10 @@ A simple HTML and CSS project for a beautiful and responsive landing page for a 
 
 ## Screenshots
 
-    <img src="Screenshot_2024-05-14_18_46_36.png" alt="Desktop Preview" width="400" style="display: block;"">
-    <img src="mobile.png" alt="Mobile Preview" width="400">
+<div style="text-align: center;">
+    <img src="Screenshot_2024-05-14_18_46_36.png" alt="Desktop Preview" width="600" style="margin-bottom: 20px;">
+    <img src="mobile.png" alt="Mobile Preview" width="300">
+</div>
 
 ## Description
 
